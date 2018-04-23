@@ -1,6 +1,6 @@
 # Daycare Remodeling Problem
 
-## Credit for Problem description: Mark Floryan
+## Credit for Problem Description: Mark Floryan
 
 ## Problem Description
 You administer an infant daycare that has n rooms filled with babies.
